@@ -95,19 +95,7 @@ python main.py
 
 ## Developer  
 
-**Tudo Tech** (c) 2025. All rights reserved.  
-
----
-
-## Contribution  
-
-We welcome issues and pull requests!  
-
-1. Fork the repository  
-2. Create a new branch (`git checkout -b new-feature`)  
-3. Commit your changes (`git commit -m 'Add new feature'`)  
-4. Push to your branch (`git push origin new-feature`)  
-5. Submit a **Pull Request**  
+TudoHuang
 
 ---
 
